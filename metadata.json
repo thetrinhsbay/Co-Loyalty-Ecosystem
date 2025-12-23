@@ -1,0 +1,8 @@
+{
+  "name": "Co-Loyalty Ecosystem",
+  "description": "A comprehensive coalition loyalty platform for multiple companies to share a unified point system and marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
