@@ -102,7 +102,7 @@ const StrategyGuide: React.FC = () => {
             <p className="text-lg">Chúng ta không xây dựng các "giếng nước" riêng biệt. Đây là một ĐẠI DƯƠNG thanh khoản. Điểm sinh ra ở đâu không quan trọng, quan trọng là nó chảy về đâu.</p>
             
             <h3 className="text-3xl font-black text-gray-900 tracking-tight">02. Cơ chế "Van một chiều" Dòng tiền</h3>
-            <p>Sử dụng cơ chế <strong>Pre-paid Wallet</strong>: Merchant nạp VND (Fiat) -> Đúc Token (Points) vào Quỹ Bảo lãnh. Khi User tiêu điểm tại Shop B, tiền VND sẽ được "giải phóng" từ Quỹ chuyển về Shop B sau chu kỳ T+1.</p>
+            <p>Sử dụng cơ chế <strong>Pre-paid Wallet</strong>: Merchant nạp VND (Fiat) {"->"} Đúc Token (Points) vào Quỹ Bảo lãnh. Khi User tiêu điểm tại Shop B, tiền VND sẽ được "giải phóng" từ Quỹ chuyển về Shop B sau chu kỳ T+1.</p>
 
             <h3 className="text-3xl font-black text-gray-900 tracking-tight">03. Thôi miên thị giác & Trải nghiệm Radar</h3>
             <p>Trang chủ phải là một <strong>Sàn giao dịch cảm xúc</strong>. Sử dụng Wealth Mirror để hiện số dư VND thay vì điểm số vô hình. Tích hợp Heatmap tìm shop đang X2 điểm quanh vị trí người dùng.</p>
